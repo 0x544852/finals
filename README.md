@@ -12,8 +12,8 @@ Based on the midterms webapp project this is a basic Flutter app that uses this 
 ## Getting Started
 Run in Android Studio
 
-## Sample
-![Alt text](doc_images/FoodAIApp.png?raw=true "Sample Input" = 250x550)
+## Sample Screen
+![](doc_images/FoodAIApp.png = 250x550)
 
 ## Development Cycle: 
 - Main effort was on Flutter, Dart and compatibility
