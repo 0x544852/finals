@@ -13,7 +13,7 @@ Based on the midterms webapp project this is a basic Flutter app that uses this 
 Run in Android Studio
 
 ## Sample Screen
-![](doc_images/FoodAIApp.png = 250x550)
+![](doc_images/FoodAIApp50.png)
 
 ## Development Cycle: 
 - Main effort was on Flutter, Dart and compatibility
