@@ -1,20 +1,37 @@
-# Chat Demo
 
-## Description
-* A chat app made by Flutter and Firebase.
-* Support login with google account, chat with any user, send text, image and sticker, update avatar and profile.
-* Watch the demo video for more clarity: https://youtu.be/MOHE68LI5Eg
-* Check my general guidance to know more and how to do it: https://medium.com/@duytq94/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e
+![Alt text](images/logo.PNG?raw=true "Logo")
 
-## Extension
-* Push notification messages.
-* Demo: https://youtu.be/TL--RKbNPt8
-* Article: https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675
+# Food AI App
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/duytq94/flutter-chat-demo/master/screenshots/FlutterChatDemo.gif" height="50%" width="50%">
+Using deeplearning, we can take pictures of our food to determine what we are eating and get all kinds of related information about the food from recipes, calorie and possibly risks/benefits.
+This project is ambitious; in the long run we will develop a few seperate models which will be used in a pipe-line, where one model will determine features of the food, from there we can isolated which classes of food could be in the image. Using a model pipeline will increase the overall accuracy of our predictions.
 
-## How to run
-* Clone this repo
-* Run `flutter packages get`
-* Run `flutter run` (remember open simulator or connect physical device, iOS auto run additional command `pod install`)
+Based on the midterms webapp project this is a basic Flutter app that uses this webservice.
+
+
+## Getting Started
+Run in Android Studio
+
+## Sample
+![Alt text](doc_images/FoodAIApp.JPG?raw=true "Sign In")
+
+## Development Cycle: 
+- Main effort was on Flutter, Dart and compatibility
+
+ 
+
+## Authors
+
+- Darren Scott Hinde
+- Thomas Reiche
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* https://github.com/Murgio/Food-Recipe-CNN
+* https://github.com/duytq94/flutter-chat-demo
+
+
