@@ -13,7 +13,7 @@ Based on the midterms webapp project this is a basic Flutter app that uses this 
 Run in Android Studio
 
 ## Sample
-![Alt text](doc_images/FoodAIApp.PNG?raw=true "Sample Input")
+![Alt text](doc_images/FoodAIApp.png?raw=true "Sample Input")
 
 ## Development Cycle: 
 - Main effort was on Flutter, Dart and compatibility
