@@ -1,5 +1,5 @@
 
-![Alt text](images/logo.PNG?raw=true "Logo")
+![Alt text](doc_images/logo.PNG?raw=true "Logo")
 
 # Food AI App
 
@@ -12,8 +12,8 @@ Based on the midterms webapp project this is a basic Flutter app that uses this 
 ## Getting Started
 Run in Android Studio
 
-## Sample
-![Alt text](doc_images/FoodAIApp.JPG?raw=true "Sign In")
+## Sample Screen
+![](doc_images/FoodAIApp.png = 250x550)
 
 ## Development Cycle: 
 - Main effort was on Flutter, Dart and compatibility
