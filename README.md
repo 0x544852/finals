@@ -1,5 +1,5 @@
 
-![Alt text](images/logo.PNG?raw=true "Logo")
+![Alt text](doc_images/logo.PNG?raw=true "Logo")
 
 # Food AI App
 
